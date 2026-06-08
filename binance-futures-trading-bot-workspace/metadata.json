@@ -1,0 +1,8 @@
+{
+  "name": "Binance Futures Trading Bot Workspace",
+  "description": "An interactive playground, simulator, and code exporter for a Python Binance Futures Testnet Trading Bot conforming to Primetrade.ai's evaluation criteria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
